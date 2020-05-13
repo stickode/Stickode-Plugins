@@ -62,4 +62,7 @@ This is code auto-completion plugins can using in the Intellj and Visual Studio 
 
 Intellij build 2019.1.4 이후부터 사용가능합니다.
 
-**Visual Studio Code MarketPlace :** https://marketplace.visualstudio.com/items?itemName=teamnova.stickode
+**Visual Studio Code MarketPlace :**  [Move to Marketplace][googlelink]
+
+[googlelink]: https://marketplace.visualstudio.com/items?itemName=teamnova.stickode
+ 
