@@ -20,7 +20,7 @@ This is code auto-completion plugins can using in the Intellj and Visual Studio 
    <p> Type `stickode` and you can see all codes provided by stickode.</p>
 
 
-![screenshot](https://github.com/teamnovacode/Stickode-Plugins/blob/master/img/completion_stickode.gif)
+![screenshot](https://github.com/stickode/Stickode-Plugins/blob/master/img/completion_stickode.gif)
 
 
 
@@ -29,7 +29,7 @@ This is code auto-completion plugins can using in the Intellj and Visual Studio 
    
 <p>    Type the codename to load.</p>
    
-![screenshot](https://github.com/teamnovacode/Stickode-Plugins/blob/master/img/stickode_tutorial.gif)
+![screenshot](https://github.com/stickode/Stickode-Plugins/blob/master/img/stickode_tutorial.gif)
 
 
 
@@ -43,7 +43,7 @@ This is code auto-completion plugins can using in the Intellj and Visual Studio 
    
  <p>    (This function can used after signing up to stickode.) </p>
    
-![screenshot](https://github.com/teamnovacode/Stickode-Plugins/blob/master/img/upload.gif)
+![screenshot](https://github.com/stickode/Stickode-Plugins/blob/master/img/upload.gif)
 
 
 # 지원 언어 Supported Language.
